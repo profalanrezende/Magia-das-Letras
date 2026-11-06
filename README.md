@@ -1,6 +1,7 @@
 # Magia das Letras — A.R.S. HTML APPS e GAMES
 
-Variação alfabetizadora do **Magia Doce**: troque peças vizinhas para juntar 3 ou mais iguais (ou formar palavras) antes que o tempo (5 a 15 min) acabe.
+Variação alfabetizadora do **Magia Doce** do mesmo autor.
+Troque peças vizinhas para juntar 3 ou mais iguais (ou formar palavras) antes que o tempo (5 a 15 min) acabe.
 
 ## Modos (30 níveis cada + Modo Infinito ∞ gerado a partir do banco de dados)
 1. **Vogal** – A E I O U, depois maiúsculas/minúsculas, pares, trios e acentos.
@@ -23,6 +24,3 @@ Os modos ficam no aparelho e aparecem na tela inicial. Para levar a outros apare
 
 ## Dicionário
 `dict.js` (~120 mil palavras, o mesmo do Detetives do Saber) valida as palavras formadas no tabuleiro e as digitadas pelo professor.
-
-## Publicar
-Envie **todos** os arquivos desta pasta para o repositório e ative GitHub Pages (Settings → Pages → branch `main`, pasta `/root`). Funciona offline depois do primeiro acesso (PWA).
