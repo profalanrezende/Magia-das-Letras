@@ -1,0 +1,6 @@
+{
+ "vog":[{"title":"Desafio do AEIOU","targets":["a","e","i","o","u"],"lab":"u","goal":20,"mins":6}],
+ "con":[{"title":"Hoje é o F","targets":["f"],"lab":"m","goal":15,"mins":6}],
+ "f31":[{"title":"Estudando o V","family":"V","goal":16,"mins":6,"extra":false},{"title":"Só a família do G","family":"ga gue gui go gu","goal":16,"mins":6,"extra":false}],
+ "f32":[{"title":"As palavras do texto de hoje","words":["ca-sa","bo-la","pa-ta","ma-ca-co","sa-pa-to","ja-ne-la"],"strict":true,"goal":6,"mins":8}]
+}
